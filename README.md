@@ -1,6 +1,14 @@
 # kotlim-mis-notas
 
 ##para ARCH Linux
+Para poder conectar mi telefono tuve que instlaar un paquete en Linux
+
+sudo pacman -Sy android-tools
+sudo pacman -S android-udev
+
+## En el telefono
+Meteser en ajustes dar 3 toques donde sale la version de android para que salga ua opcion nueva de desarrollador.
+Ademas entrar a las opciones desarrollador y activar la opcion permanecer activo y la opcion Depuracion por USB
 
 
 

@@ -10,6 +10,9 @@ sudo pacman -S android-udev
 Meteser en ajustes dar 3 toques donde sale la version de android para que salga ua opcion nueva de desarrollador.
 Ademas entrar a las opciones desarrollador y activar la opcion permanecer activo y la opcion Depuracion por USB
 https://developer.android.com/training/basics/firstapp/running-app?hl=es-419
+<br>
+Si actualizas el software de tu telefono debes repetir el procedimiento. la ultima vez tuve que darle 7 veces a la compilacion del telefono y salio 
+la opcion de desarrollador
 
 ##configuraciones del IDE
 mostramos el toolbar

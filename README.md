@@ -20,8 +20,8 @@ click en view >> appearance >> Toolbar
 yo uso GNU Linux.. busque la carpeta de onfiguracion y la borre se encuentre en /home/$USER/.AndroidStudio4.0
 
 #### Comandos para ADB
-para eliminar la conexion con la adb
+para eliminar la conexion con la adb.
 adb kill-server
 
-para iniciar la conexion con la adb
+para iniciar la conexion con la adb.
 adb start-server
